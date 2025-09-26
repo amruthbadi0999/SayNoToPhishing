@@ -1,0 +1,18 @@
+{
+  "functions": {
+    "app/api/phishing/route.js": {
+      "maxDuration": 30
+    },
+    "app/api/chat/route.js": {
+      "maxDuration": 30
+    },
+    "app/api/ocr/route.js": {
+      "maxDuration": 60
+    }
+  },
+  "env": {
+    "HUGGINGFACE_API_KEY": "@huggingface_api_key",
+    "HF_CHAT_MODEL": "meta-llama/Llama-2-7b-chat-hf",
+    "HF_PHISH_MODEL": "r3ddkahili/final-complete-malicious-url-model"
+  }
+}

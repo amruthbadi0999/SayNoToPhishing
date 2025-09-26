@@ -1,0 +1,4 @@
+https://login-paypal.example.com/signin” for unsafe
+https://open.spotify.com/.  for safe
+http://hdhub4u.gifts/. 3rd party website for movies downloading
+http://payment-update.example.com/?token=verify_now highrisk
